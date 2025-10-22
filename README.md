@@ -75,7 +75,6 @@ CREATE TABLE anggota (
 ```sql
 INSERT INTO users (username, password, role) VALUES
 ('admin', 'admin123', 'admin'),
-('petugas', '12345', 'staff');
 ```
 
 ### Data Buku
