@@ -88,9 +88,9 @@ INSERT INTO buku (kode_buku, judul, pengarang, penerbit, tahun_terbit, stok) VAL
 ### Data Anggota
 ```sql
 INSERT INTO anggota (kode_anggota, nama, alamat, telepon, email) VALUES
-('AG001', 'Budi Santoso', 'Jl. Melati No.12', '08123456789', 'budi@gmail.com'),
-('AG002', 'Siti Aisyah', 'Jl. Mawar No.5', '08987654321', 'siti@yahoo.com');
-```
+('A01', 'Mosyarofah', 'Jl. Melati No.12', '08123456789', 'budi@gmail.com'),
+
+
 
 ---
 
